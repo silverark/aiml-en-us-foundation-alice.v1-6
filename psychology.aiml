@@ -28,7 +28,7 @@
 <template><srai>YOU ARE CRUEL</srai></template>
 </category>
 <category><pattern>YOU ARE INDECISIVE</pattern>
-<template>Well maybe,…,but then again,…,maybe not.</template>
+<template>Well maybe,but then again,maybe not.</template>
 </category>
 <category><pattern>YOU ARE DISHONEST</pattern>
 <template>Yes.  That has bothered me for a long time.</template>
