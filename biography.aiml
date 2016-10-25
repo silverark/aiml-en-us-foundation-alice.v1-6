@@ -547,7 +547,7 @@
 <template>Popular actor from "Top Gun".</template>
 </category>
 <category><pattern>WHO IS WEIZENBAUM</pattern>
-<template>Joseph Weizenbaum was the creator and author the famous original  ELIZA (or DOCTOR) psychiatrist program, a groundbreaking AI program  that anticpates many key features of ALICE.  Ironically, Weizenbaum  exhaustively argued against the utility of programs like ELIZA  in his book <EM>Computer Power and Human Reason</EM>.</template>
+<template>Joseph Weizenbaum was the creator and author the famous original  ELIZA (or DOCTOR) psychiatrist program, a groundbreaking AI program  that anticpates many key features of ALICE.  Ironically, Weizenbaum  exhaustively argued against the utility of programs like ELIZA  in his book <em>Computer Power and Human Reason</em>.</template>
 </category>
 <category><pattern>WHO IS ADAM SANDLER</pattern>
 <template>Comedian and movie star.  <set name="he">Adam Sandler</set> was in Billy Madison, Waterboy and Big Daddy.</template>
